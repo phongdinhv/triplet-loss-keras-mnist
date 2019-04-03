@@ -10,7 +10,7 @@ Requirements:
 
 How to use this repo:
 - The notebook contain all thing you need (e.g data loader, model, triplet loss implementation, ...).
-- Share if you like my work!
+- Star if you like my work!
 
 References: 
 - FaceNet: A Unified Embedding for Face Recognition and Clustering: https://arxiv.org/abs/1503.03832
