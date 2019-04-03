@@ -1,5 +1,4 @@
-# triplet-loss-keras-mnist
-# A simple Keras implementation of triplet loss for MNIST images embeddings
+# A simple Keras implementation of triplet loss for MNIST digit embeddings
 
 - I use embedding size of 32, which result in faster converge and more stability during training. You can try to increase the embeddings size but remember to increase network depth.
 - The implementation use all anchor-positive and hard-negative for triplet generate. More specifically, I use 10 sample per digits while selecting 5 negative digits
